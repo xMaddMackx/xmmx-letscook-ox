@@ -1,2 +1,2 @@
 # xmmx-letscook-ox
-[OX/ESX] Let's Cook! Version Checker
+[OX-ESX] Let's Cook! Version Checker
